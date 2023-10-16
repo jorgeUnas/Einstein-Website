@@ -111,6 +111,16 @@ img{
 }
 footer{
     width: 90%;
+    height: 50px;
     margin: 0px auto;
-    background-color: aqua;
+    background-color: lightblue ;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+footer p{
+    font-size: 20px;
+    padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
